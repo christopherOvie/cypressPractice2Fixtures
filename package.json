@@ -1,0 +1,14 @@
+{
+  "name": "cypresspractice2",
+  "version": "1.0.0",
+  "description": "cypress pom",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "chris o",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}

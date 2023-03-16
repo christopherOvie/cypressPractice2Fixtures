@@ -1,0 +1,15 @@
+{
+    "firstName": "John",
+    "lastName": "doe",
+    "email": "Peter@test.com",
+    "subject":"Mathematics", 
+   
+    "comments":"test comments",
+    "phoneNumber":444444444,
+    "state":"NCR",
+    "city":"Delhi",
+   "picture":"cypress/fixtures/dog.jpeg",
+   "message":"Thanks for submitting the form"
+
+  }
+  
